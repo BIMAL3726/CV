@@ -1,0 +1,96 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+  
+}
+.contain{
+    width:900px;
+    background-color:rgb(184, 210, 243);
+    margin:0 auto;
+    padding:10px;
+}
+img{
+    width:80px;
+    height:100px;
+    border: 3px solid white;
+    border-radius:50%;
+    float:left;
+}
+.head{
+    float:left;
+    padding:30px;
+}
+h1,h2,h3,h4,h5,h6{
+    color:blue;
+}
+.bio{
+    float:right;
+    padding-top: 20px;
+    padding-right: 10px;
+}
+.bio p a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+.bio p a:hover{
+    color:brown;
+    text-decoration: underline;
+}
+.clear{
+    clear:both;
+}
+hr{
+    border:solid black 3px;
+    margin : 20px auto;
+    border-bottom: none;
+    width:100%;
+}
+.personal{
+    padding: 5px;
+}
+.left{
+    float:left;
+    width:30%;
+}
+.right{
+    float:left;
+    width:70%;
+}
+.hr{
+    border:solid black 2px;
+    border-bottom: none;
+    width:100%;
+}
+.work{
+    padding: 5px;
+}
+.intern-left{
+    float: left;
+    width:30%;
+}
+.intern-right{
+    float: left;
+    width:30%;
+}
+.foot{
+    background-color:midnightblue;
+    text-align: center;
+    width:100%;
+}
+.foot a{
+    color:white;
+    padding: 10px;
+    text-decoration: none;
+    margin:20px;
+}
+.foot a:hover{
+    color:red;
+    text-decoration: underline;
+}
+.foot p{
+    color:aliceblue;
+    padding:20px;
+}
